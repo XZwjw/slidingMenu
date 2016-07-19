@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SlidingMenu</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!--sliding_menu-->
+    <string name="first">第一个item</string>
+    <string name="second">第二个item</string>
+    <string name="third">第三个item</string>
+    <string name="fourth">第四个item</string>
+    <string name="fifth">第五个item</string>
+    <!--sliding_menu_main-->
+    <string name="change">切换菜单</string>
+
+</resources>
